@@ -1,0 +1,1 @@
+tickers = ["AAPL", "TSLA", "WBD", "AMD", "NVDA", "PLTR", "INTC", "AMZN", "BAC", "F", "DELL", "DIS", "WBA", "PARA", "GOOG", "T", "HPE", "CMCSA", "SNAP", "SOFI", "PFE", "CCL", "LYFT", "BABA", "MSFT", "XOM", "UBER", "VZ", "CSCO", "WFC", "META", "C", "PYPL", "PLUG"]
